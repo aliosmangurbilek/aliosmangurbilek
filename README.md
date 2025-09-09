@@ -18,7 +18,7 @@
 ---
 
 ### 👋 Merhaba!
-Ben Ali. Yapay zeka ve veri odaklı sistemler geliştiriyorum.  
+Ben Ali Osman. Yapay zeka ve veri odaklı sistemler geliştiriyorum.  
 **Python · TensorFlow · FastAPI · PostgreSQL · Docker** ile üretime yakın projeler yazıyorum.  
 Gerçek zamanlı veri akışları, NL→SQL asistanları ve simülasyon tabanlı zekâ en ilgi duyduğum alanlar.
 
