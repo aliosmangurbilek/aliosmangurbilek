@@ -130,10 +130,10 @@ University of Molise – Italy
 ## Contact
 
 Email  
-ali.osman.alperen.gurbilek@ogrenci.karatay.edu.tr  
+aliosmangurbil@gmail.com
 
 LinkedIn  
-https://linkedin.com/in/ali-osman-alperen  
+[https://linkedin.com/in/ali-osman-alperen  ](https://www.linkedin.com/in/ali-osman-g%C3%BCrbilek-a20371223/)
 
 Website  
 https://aliosmangurbilek.online  
